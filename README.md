@@ -30,15 +30,9 @@
 
 ----------------------------------------------------------------------------------
 
-*OBS onde está escrito em maiúsculo você deve escrever suas informações:
+cartelifabricio
 
-(SEU NOME) = Hellen.
-
-LINK_GIT = https://github.com/hellenmas.
-
-
-
-💾Aqui está alguns itens que você pode adicionar ao seu arquivo README para torná-lo mais atraente:
+LINK_GIT = https://github.com/cartelifabricio.
 
 
 
